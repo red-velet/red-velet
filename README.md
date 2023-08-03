@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=你好👋,我是chiou;+欢迎来到我的个人简介!;我的开源项目qrpc就在github;我的个人博客在[www.chiou.icu];其它笔记在CSDN也有分享;欢迎串门😊😊😊)](https://git.io/typing-svg)
 ---
-![](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)
+![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)
 
 
 ### 社交主页：
