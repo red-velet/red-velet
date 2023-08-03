@@ -15,7 +15,7 @@
 
 ### 开源项目
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)](
+![](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)
 
 
 
