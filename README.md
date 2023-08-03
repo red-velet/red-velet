@@ -12,5 +12,5 @@
 
 ---
 ### 充电中：
-<img align="" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<img align="" alt="GIF" src="./images/code.gif" width="830" height="100%" />
 
