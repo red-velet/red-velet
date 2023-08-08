@@ -5,6 +5,10 @@
 - <a href="https://www.chiou.icu"><code><img height="20" width="20" src="./images/profile.jpg"></code></a>：**个人博客网站**:  **www.chiou.icu**
 - 🖱️⚡🐔：鼠标点击图标即可访问.
 
+
+
+[![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)](https://github.com/red-velet/qrpc)
+
 ---
 ## 学习汇总
 
