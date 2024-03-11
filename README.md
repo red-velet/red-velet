@@ -2,7 +2,7 @@
 热爱后端、热爱技术。
 
 - <a href="https://blog.csdn.net/qq_45659753"><code><img height="20" width="20" src="./images/csdn.png"></code></a>：**CSDN优秀分享作者，粉丝数量888人，9.3万阅读量。**
-- <a href="https://www.chiou.icu"><code><img height="20" width="20" src="./images/profile.jpg"></code></a>：**个人博客网站**:  **www.chiou.icu**
+- <a href="https://www.greennut.icu"><code><img height="20" width="20" src="./images/profile.jpg"></code></a>：**个人博客网站**:  **www.greennut.icu)**
 - 🖱️⚡🐔：鼠标点击图标即可访问.
 
 
