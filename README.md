@@ -9,6 +9,10 @@
 
 [![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)](https://github.com/red-velet/qrpc)
 
+[![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=naruto-manage-fronted)](https://github.com/red-velet/naruto-manage-fronted)
+
+[![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=naruto-manage-backend)](https://github.com/red-velet/backend)
+
 ---
 ## 学习汇总
 
