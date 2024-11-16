@@ -5,6 +5,4 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=😊😊😊hello,welcome!!!😊😊😊)](https://git.io/typing-svg)
 
----
-<img align="center" alt="GIF" src="./images/code.gif" width="830" height="100%" />
 
