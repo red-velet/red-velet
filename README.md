@@ -1,10 +1,4 @@
 ## 我是blue shawn🍁
-热爱技术。
-
-- <a href="https://blog.csdn.net/qq_45659753"><code><img height="20" width="20" src="https://sevencowcloud.chiou.icu/ghbcsdn.png"></code></a>：**CSDN优秀分享作者，粉丝数量888人，9.3万阅读量。**
-- <a href="https://blog.greennut.icu"><code><img height="20" width="20" src="https://cloud.greennut.icu/resume/profile.jpg"></code></a>：**个人博客网站**:  
-- 🖱️⚡🐔：鼠标点击图标即可访问.
-
 
 
 [![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)](https://github.com/red-velet/qrpc)
