@@ -12,5 +12,6 @@
 
 [![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=naruto-manage-backend)](https://github.com/red-velet/naruto-manage-backend)
 
+---
 <img align="center" alt="GIF" src="./images/code.gif" width="830" height="100%" />
 
