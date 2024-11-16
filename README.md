@@ -6,12 +6,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=😊😊😊hello,welcome!!!😊😊😊)](https://git.io/typing-svg)
 
 ---
-[![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=qrpc)](https://github.com/red-velet/qrpc)
-
-[![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=naruto-manage-fronted)](https://github.com/red-velet/naruto-manage-fronted)
-
-[![stars](https://github-readme-stats.vercel.app/api/pin/?username=red-velet&repo=naruto-manage-backend)](https://github.com/red-velet/naruto-manage-backend)
-
----
 <img align="center" alt="GIF" src="./images/code.gif" width="830" height="100%" />
 
